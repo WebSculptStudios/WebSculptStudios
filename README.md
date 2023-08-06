@@ -4,7 +4,7 @@
 
 🎉Do you want a stunning and professional website that showcases your business or personal brand? Look no further! At WebSculptStudios, we specialize in creating visually appealing and functional websites that leave a lasting impression on your visitors. Whether you're an entrepreneur, a small business owner, or an individual seeking to establish an online presence, we've got you covered.
 
-![WebSculpt Studios Logo](https://example.com/path/to/logo.png)
+![WebSculpt Studios Logo](https://github.com/WebSculptStudios/WebSculptStudios/blob/main/Website%20Creator-bro.png)
 
 
 ## 🚀 About Us
