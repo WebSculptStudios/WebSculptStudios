@@ -71,7 +71,7 @@ We wield an arsenal of powerful tools, frameworks, and programming languages to 
 
 At WebSculpt Studios, we are dedicated to delivering exceptional web solutions that drive your business forward. Let's collaborate and build a remarkable online presence for your brand! 🚀🌐
 
-![Contact-img](https://example.com/path/to/website-screenshot.png](https://github.com/WebSculptStudios/WebSculptStudios/blob/main/before-contact.png)
+![Contact-img](https://github.com/WebSculptStudios/WebSculptStudios/blob/main/before-contact.png)
 
 
 
